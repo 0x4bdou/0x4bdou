@@ -1,6 +1,5 @@
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/0x4bdou) 
-
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/thesunniguy)
 # 💻 Tech Stack:
 
 Frontend:  
