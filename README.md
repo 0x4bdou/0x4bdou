@@ -5,7 +5,7 @@
 ║  USER      : 0x4bdou                                 ║
 ║  ROLE      : Computer Science Student                ║
 ║  INTERESTS : Cybersecurity / Pentesting / Web Dev    ║
-║  STATUS    : Learning • Building • Securing          ║
+║  STATUS    : Learning                                ║
 ╚══════════════════════════════════════════════════════╝
 ```
 ---
