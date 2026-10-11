@@ -68,13 +68,13 @@ class CyberStudent:
 
 ```text
 ┌──────────────────────────────────────────────────┐
-│  [ SYSTEM STATUS : LEARNING MODE ]                │
+│  [ SYSTEM STATUS : LEARNING MODE ]               │
 ├──────────────────────────────────────────────────┤
-│  [01] Linux & Networking                          │
-│  [02] Web Application Security                    │
-│  [03] Penetration Testing                         │
-│  [04] Capture The Flag (CTF)                      │
-│  [05] Vulnerability Research                      │
+│  [01] Linux & Networking                         │
+│  [02] Web Application Security                   │
+│  [03] Penetration Testing                        │
+│  [04] Capture The Flag (CTF)                     │
+│  [05] Vulnerability Research                     │
 └──────────────────────────────────────────────────┘
 ```
 ---
